@@ -1,0 +1,8 @@
+.wrapper {
+  padding: 30px 0px;
+  justify-content: center;
+  display: flex;
+  background-color: #5aa480;
+  color: white;
+  font-size: 12px;
+}
